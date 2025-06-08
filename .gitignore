@@ -1,0 +1,22 @@
+
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore data files
+*.csv
+*.parquet
+
+# Ignore JSON data file
+transactions.json
+
+# Ignore virtual environment folders
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
